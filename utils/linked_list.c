@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "util.h"
+#include "linked_list.h"
 
 struct ListNode *genList(int *nums, int numsSize) {
 	struct ListNode *head = (struct ListNode *) calloc(numsSize, sizeof(struct ListNode));

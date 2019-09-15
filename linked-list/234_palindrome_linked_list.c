@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 暴力判回文
 bool isPalindrome(struct ListNode *head) {

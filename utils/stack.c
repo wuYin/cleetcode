@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
-#include "util.h"
+#include "stack.h"
 
 struct Stack *newStack(unsigned cap) {
 	struct Stack *s = (struct Stack *) malloc(sizeof(struct Stack));

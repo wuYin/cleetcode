@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 从第二个节点开始遍历，若重复则删除
 struct ListNode *deleteDuplicates(struct ListNode *head) {

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../utils/util.h"
+#include "../utils/stack.h"
 
 typedef struct {
 	struct Stack *mins;

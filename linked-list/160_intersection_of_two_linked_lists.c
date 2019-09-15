@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 若相交，则切换头结点后的总路程相等，展开全段路程双指针会同时指向相交节点
 // x+y+z+y = z+y+x+y

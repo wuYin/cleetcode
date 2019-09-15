@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 快慢双指针
 struct ListNode *middleNode(struct ListNode *head) {

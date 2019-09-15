@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 void deleteNode(struct ListNode *node) {
 	if (node == NULL || node->next == NULL) // node 已知非尾结点

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 依次拼接即可
 struct ListNode *mergeTwoLists(struct ListNode *l1, struct ListNode *l2) {

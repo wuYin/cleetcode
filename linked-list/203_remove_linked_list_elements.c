@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 
 // 注意头结点可能会丢失

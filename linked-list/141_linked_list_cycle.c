@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 
 // 快指针必定会遇到慢指针

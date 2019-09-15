@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../utils/util.h"
+#include "../utils/linked_list.h"
 
 // 画图一目了然
 struct ListNode *reverseList(struct ListNode *head) {

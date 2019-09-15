@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
-#include "../utils/util.h"
+#include "../utils/stack.h"
 
 // 开符号进栈，遇闭符号则出栈匹配
 bool isValid(char *s) {
